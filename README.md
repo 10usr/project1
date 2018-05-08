@@ -1,2 +1,1 @@
-# zooi
-# project1
+# projects
